@@ -1,0 +1,21 @@
+; $Id: temp.info $
+name = Velvet Theme
+description = Mobin Ghahramanpour
+screenshot = screenshot.png
+version = 1.0
+core = 7.x
+engine = phptemplate
+
+regions[header] = Header
+regions[slideshow] =  Slideshow
+regions[sidebar_first]  = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[page_top] = Page Top
+regions[featured] = Featured
+regions[content] = Content
+regions[sub_footer] = Sub Footer
+regions[footer] = Footer
+regions[highlighted] = Highlighted
+regions[help] = Help
+
+stylesheets[all][] = style.css
